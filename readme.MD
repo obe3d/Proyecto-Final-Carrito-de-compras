@@ -1,5 +1,5 @@
 
-# Sistema de ventas con PHP y MySQL o MariaDB
+# Sistema de ventas con PHP y MySQL 
 
 
 
