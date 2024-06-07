@@ -22,9 +22,14 @@
 Integrantes del equipo:
 
   Ángel Isaac Cides Fuentes
+
   América García Rodríguez
+
   Ricardo Obed Hernández Gordillo
+
   Zaira Rubí Rosas Carrera
+
   Gisselle Alexandra Sánchez Sánchez
+
   Karla Yaneli Villa Álvarez
 
