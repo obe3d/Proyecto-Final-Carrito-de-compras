@@ -19,7 +19,8 @@
 
 4. Listo
 
-Integrantes del equipo:
+
+# Integrantes del equipo:
 
   Ángel Isaac Cides Fuentes
 
